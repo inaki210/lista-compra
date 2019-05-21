@@ -1,0 +1,1 @@
+export { SiniestroContent } from './SiniestroContent';

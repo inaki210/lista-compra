@@ -1,0 +1,17 @@
+{
+  "extends": "../../../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "../../../",
+    "rootDir": "../../",
+    "paths": {
+      "$*": [
+        "../../*"
+      ]
+    }
+  },
+  "exclude": [
+    "addons.js",
+    "config.js",
+    "webpack.config.js",
+  ]
+}

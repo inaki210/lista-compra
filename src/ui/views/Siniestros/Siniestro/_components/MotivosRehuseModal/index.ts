@@ -1,0 +1,1 @@
+export { MotivosRehuseModal } from './MotivosRehuseModal';

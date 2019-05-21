@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="38px" viewBox="0 0 30 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>contactos</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contactos">
+            <path d="M27.2371391,12.9125715 L22.8579489,12.9125715 L22.8579489,35.2404076 L2.76302688,35.2404076 L2.76302688,2.75959228 L27.2371391,2.75959228 L27.2371391,12.9125715 Z M0,0 L0,38 L25.6208098,38 L25.6208098,15.6733239 L30,15.6733239 L30,0 L0,0 Z" id="Fill-1" fill="#41223E" fill-rule="nonzero"></path>
+            <polygon id="Fill-2" fill="#931D50" points="26 23 30 23 30 17 26 17"></polygon>
+            <polygon id="Fill-3" fill="#6CB644" points="26 30 30 30 30 24 26 24"></polygon>
+            <polygon id="Fill-4" fill="#41223E" points="26 38 30 38 30 32 26 32"></polygon>
+            <polyline id="Fill-5" fill="#931D50" points="8.81434921 18.9219552 17.1396744 18.9219552 17.1589812 28 19 28 19 17 7 17 7 28 8.83381963 28 8.81434921 18.9219552"></polyline>
+            <polygon id="Fill-6" fill="#6CB644" points="10 28 12 28 12 23 10 23"></polygon>
+            <polygon id="Fill-7" fill="#6CB644" points="14 28 16 28 16 23 14 23"></polygon>
+            <path d="M12.9999192,9.59149693 C14.3285913,9.59149693 15.4084709,10.6724863 15.4084709,12 C15.4084709,13.3284837 14.3285913,14.409473 12.9999192,14.409473 C11.671247,14.409473 10.5903975,13.3284837 10.5903975,12 C10.5903975,10.6724863 11.671247,9.59149693 12.9999192,9.59149693 Z M12.9999192,16 C15.2041344,16 17,14.2062722 17,12 C17,9.7946977 15.2041344,8 12.9999192,8 C10.793764,8 9,9.7946977 9,12 C9,14.2062722 10.793764,16 12.9999192,16 Z" id="Fill-8" fill="#41223E" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

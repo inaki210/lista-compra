@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="45px" viewBox="0 0 36 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>iconos</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Info-Faqs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Info-Faqs.MODAL.desktop" transform="translate(-381.000000, -501.000000)" fill-rule="nonzero">
+            <g id="info" transform="translate(318.000000, 226.000000)">
+                <g id="ico" transform="translate(39.000000, 274.580446)">
+                    <g id="iconos" transform="translate(24.189474, 0.000000)">
+                        <polygon id="Rectangle-path" fill="#FFFFFF" points="7.93011579 2.62826293 33.0468526 2.62826293 33.0468526 36.1421452 7.93011579 36.1421452"></polygon>
+                        <path d="M34.9316158,38.0281206 L6.04333684,38.0281206 L6.04333684,0.74127907 L34.9316158,0.74127907 L34.9316158,38.0281206 Z M8.88963158,35.304046 L32.4602579,35.3766611 L32.2566632,3.40080683 L8.68402105,3.32819174 L8.88963158,35.304046 Z" id="Shape" fill="#56274F"></path>
+                        <polygon id="Rectangle-path" fill="#FFFFFF" points="1.97748947 9.7021832 27.0962421 9.7021832 27.0962421 43.215057 1.97748947 43.215057"></polygon>
+                        <path d="M28.9810053,45.1020408 L0.0907105263,45.1020408 L0.0907105263,7.81519934 L28.9810053,7.81519934 L28.9810053,45.1020408 Z M2.70720526,42.4425131 L26.2838789,42.4425131 L26.3564474,10.4747271 L2.77977368,10.4747271 L2.70720526,42.4425131 Z" id="Shape" fill="#56274F"></path>
+                        <polygon id="Rectangle-path" fill="#AA004F" points="5.32571579 15.8280731 16.48815 15.8280731 16.48815 18.6590532 5.32571579 18.6590532"></polygon>
+                        <polygon id="Rectangle-path" fill="#78B800" points="18.0715526 15.8280731 23.1856105 15.8280731 23.1856105 18.6590532 18.0715526 18.6590532"></polygon>
+                        <polygon id="Rectangle-path" fill="#AA004F" points="5.32571579 19.7392027 16.48815 19.7392027 16.48815 22.5691742 5.32571579 22.5691742"></polygon>
+                        <polygon id="Rectangle-path" fill="#78B800" points="18.0715526 19.7392027 23.1856105 19.7392027 23.1856105 22.5691742 18.0715526 22.5691742"></polygon>
+                        <polygon id="Rectangle-path" fill="#AA004F" points="5.32571579 23.6473066 16.48815 23.6473066 16.48815 26.4792952 5.32571579 26.4792952"></polygon>
+                        <polygon id="Rectangle-path" fill="#78B800" points="18.0715526 23.6473066 23.1856105 23.6473066 23.1856105 26.4792952 18.0715526 26.4792952"></polygon>
+                        <polygon id="Rectangle-path" fill="#AA004F" points="5.32571579 27.5584362 16.48815 27.5584362 16.48815 30.3873991 5.32571579 30.3873991"></polygon>
+                        <polygon id="Rectangle-path" fill="#78B800" points="18.0715526 27.5584362 23.1856105 27.5584362 23.1856105 30.3873991 18.0715526 30.3873991"></polygon>
+                        <polygon id="Rectangle-path" fill="#AA004F" points="5.32571579 31.4675486 16.48815 31.4675486 16.48815 34.2995373 5.32571579 34.2995373"></polygon>
+                        <polygon id="Rectangle-path" fill="#78B800" points="18.0715526 31.4675486 23.1856105 31.4675486 23.1856105 34.2995373 18.0715526 34.2995373"></polygon>
+                        <polygon id="Rectangle-path" fill="#AA004F" points="5.32571579 35.3766611 16.48815 35.3766611 16.48815 38.2076412 5.32571579 38.2076412"></polygon>
+                        <polygon id="Rectangle-path" fill="#78B800" points="18.0715526 35.3766611 23.1856105 35.3766611 23.1856105 38.2076412 18.0715526 38.2076412"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

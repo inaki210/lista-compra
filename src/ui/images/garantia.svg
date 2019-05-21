@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="46px" viewBox="0 0 30 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>garantia</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="garantia">
+            <polygon id="Path" fill="#78B800" points="6 43.5123653 9.41103018 28 17 29.4768548 13.5889698 45 10.2237253 41.8630311"></polygon>
+            <polygon id="Path" fill="#56274F" points="26 44.4513716 22.5418821 28 15 29.5374065 18.4581179 46 21.8024819 42.734414"></polygon>
+            <path d="M15,30 C6.71572875,30 1.01453063e-15,23.2842712 0,15 C-1.01453063e-15,6.71572875 6.71572875,1.52179594e-15 15,0 C23.2842712,-1.52179594e-15 30,6.71572875 30,15 C29.9908755,23.2804888 23.2804888,29.9908755 15,30 Z M15,5.55555556 C9.78397736,5.55555556 5.55555556,9.78397736 5.55555556,15 C5.55555556,20.2160226 9.78397736,24.4444444 15,24.4444444 C20.2160226,24.4444444 24.4444444,20.2160226 24.4444444,15 C24.4377651,9.78674656 20.2132534,5.56223494 15,5.55555556 Z" id="Shape" fill="#AA004F" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

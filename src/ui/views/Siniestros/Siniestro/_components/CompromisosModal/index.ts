@@ -1,0 +1,1 @@
+export { CompromisosModal } from './CompromisosModal';

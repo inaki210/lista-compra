@@ -1,0 +1,1 @@
+export { MotivosRehuse } from './MotivosRehuse';

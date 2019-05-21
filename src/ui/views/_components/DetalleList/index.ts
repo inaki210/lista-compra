@@ -1,0 +1,1 @@
+export { DetalleList } from './DetalleList';
